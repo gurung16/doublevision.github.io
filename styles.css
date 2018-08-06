@@ -33,6 +33,15 @@ body{
   color:#17252A;
 }
 
+.content6{
+  width: 100%;
+  height:100%;
+  /* border: 1px solid black; */
+  padding: 20px;
+  background-color:#def2f1;
+  color:#17252A;
+}
+
 .box{
   max-width:400px;
   max-height:148;
@@ -281,3 +290,15 @@ h3{
   background: #dd4b39;
   color: white;
 }
+
+
+
+/* media qureries */
+
+@media only screen and (max-width: 600px){
+  .content6{
+    display: none;
+    background-color: white;
+  }
+}
+/* end */
