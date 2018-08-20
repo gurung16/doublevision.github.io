@@ -130,7 +130,7 @@ margin-left: 100px;
 .content-ops{
   margin-left: auto;
   margin-right: auto;
-  width:100px;
+  width:200px;
 }
 
 .content5{
@@ -290,6 +290,24 @@ h3{
   background: #dd4b39;
   color: white;
 }
+
+/* main globe */
+
+.main_globe{
+  padding: 20px;
+  text-align: center;
+}
+
+.main_globe a{
+  text-decoration: none;
+  color: black;
+  padding: 10px;
+  font-family: 'Lora', serif;
+
+}
+
+
+/* end */
 
 
 
